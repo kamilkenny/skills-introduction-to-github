@@ -9,7 +9,7 @@
 
 # Introduction to GitHub
 
-![431af39b-c588-401d-9d39-e69b4bf8fa4f](https://github.com/user-attachments/assets/f172a1d3-ed78-41cd-a49d-0edd266da170)
+
 
 _Get started using GitHub in less than an hour._
 
