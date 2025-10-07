@@ -8,6 +8,7 @@
 -->
 
 # Introduction to GitHub
+![Uploading 431af39b-c588-401d-9d39-e69b4bf8fa4f.webp…]()
 
 _Get started using GitHub in less than an hour._
 
